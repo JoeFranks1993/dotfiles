@@ -1,5 +1,5 @@
 cd /workspace/.dotfiles
 
-mv .bash_profile ~/
+cp .bash_profile ~/
 
 source ~/.bash_profile
